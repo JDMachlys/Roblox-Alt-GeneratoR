@@ -36,10 +36,12 @@ If you would like to contribute to My Awesome Software, please follow these step
 4. Push your changes to your forked repository (`git push origin feature-name`).
 5. Create a new pull request and describe your changes in detail.
 
-## Issues
-Currently the only working this is the browser automation 
+## Donation
+If you find this project helpful and would like to support its development, you can donate to the following Ethereum wallet:
+- Wallet Address: `0x66808698a672561668f12532583a09ea7333d1c4`
 
-If you encounter any more issues with My Software, please open a new issue on GitHub and provide as much detail as possible.
+## Issues
+Currently, only the browser automation method is fully functional. The Roblox API method is still a work in progress and requires further development.
 
 ## License
 
