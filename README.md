@@ -37,14 +37,15 @@ If you would like to contribute to My Awesome Software, please follow these step
 5. Create a new pull request and describe your changes in detail.
 
 ## Issues
+Currently the only working this is the browser automation 
 
-If you encounter any issues with My Awesome Software, please open a new issue on GitHub and provide as much detail as possible.
+If you encounter any more issues with My Software, please open a new issue on GitHub and provide as much detail as possible.
 
 ## License
 
-This software is released under the [MIT License](LICENSE).
+This software is released under the [Apache](LICENSE).
 
 ## Contact
 
-If you have any questions or concerns, please feel free to contact us at [email@example.com](mailto:email@example.com).
+If you have any questions or concerns, please feel free to contact us at [Unidohmer@gmail.com](Skye07589@gmail.com).
 
