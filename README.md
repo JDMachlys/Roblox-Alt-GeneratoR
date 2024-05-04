@@ -37,8 +37,9 @@ If you would like to contribute to My Awesome Software, please follow these step
 5. Create a new pull request and describe your changes in detail.
 
 ## Donation
-If you find this project helpful and would like to support its development, you can donate to the following Ethereum wallet:
-- Wallet Address: `0x66808698a672561668f12532583a09ea7333d1c4`
+If you find this project helpful and would like to support its development, you can donate to the following Ethereum wallet, Bitcoin Wallet:
+- ETH Wallet Address: `0x66808698a672561668f12532583a09ea7333d1c4`
+- BTC Wallet Address: 'bc1qtl5u7x3a99zd8ecxz6y5ychlw4fvkr2eqfsj95'
 
 ## Issues
 Currently, only the browser automation method is fully functional. The Roblox API method is still a work in progress and requires further development. Additionally, we are actively working on an AI model to address the captcha issue and automate captcha solving within a specific timeframe. Your patience and understanding are appreciated as we continue to improve the software.
