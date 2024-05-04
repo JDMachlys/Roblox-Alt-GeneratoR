@@ -41,7 +41,8 @@ If you find this project helpful and would like to support its development, you 
 - Wallet Address: `0x66808698a672561668f12532583a09ea7333d1c4`
 
 ## Issues
-Currently, only the browser automation method is fully functional. The Roblox API method is still a work in progress and requires further development.
+Currently, only the browser automation method is fully functional. The Roblox API method is still a work in progress and requires further development. Additionally, we are actively working on an AI model to address the captcha issue and automate captcha solving within a specific timeframe. Your patience and understanding are appreciated as we continue to improve the software.
+
 
 ## License
 
