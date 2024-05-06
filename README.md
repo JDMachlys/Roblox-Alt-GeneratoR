@@ -22,9 +22,11 @@ Once you have installed My Awesome Software, you can use it as follows:
 
 ## Features
 
-- Feature 1: This feature allows you to do something amazing.
-- Feature 2: This feature lets you accomplish another incredible task.
-- Feature 3: Here's another awesome feature that you'll love.
+- Feature 1: This feature allows you to generate strong and secure passwords.
+- Feature 2: This feature enables you to create Roblox accounts automatically through the Roblox API.
+- Feature 3: This feature allows you to create Roblox accounts using browser automation, bypassing CAPTCHA challenges.
+- Feature 4: With this feature, you can generate random and unique usernames for your Roblox accounts.
+
 
 ## Contributing
 
