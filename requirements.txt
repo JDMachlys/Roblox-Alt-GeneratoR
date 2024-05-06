@@ -1,0 +1,4 @@
+cv2
+password_strength
+selenium
+requests
